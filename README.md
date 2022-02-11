@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Timuromg31
+- 👀 I’m interested in computer hardware
+- 🌱 I’m currently learning c++
+- 📫 How to reach me tkikhov@gmail.com
